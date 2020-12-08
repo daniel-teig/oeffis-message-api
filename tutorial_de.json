@@ -2,7 +2,7 @@
     "tutorials":
     [
         {
-            "id":0,"title":"Deutsch","videoUrl":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4","description":"Swipe through this to find out about all of the useful features hidden in this App","previewLength":15
+            "id":0,"title":"Time","videoUrl":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4","description":"Swipe through this to find out about all of the useful features hidden in this App","previewLength":15
             
         },
         {
@@ -26,6 +26,6 @@
             
         }
     ],
-    "createdDate":"2020-12-07T17:42:43Z"
+    "createdDate":"2020-12-07T18:42:43Z"
     
 }
