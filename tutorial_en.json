@@ -14,7 +14,7 @@
             "videoUrl":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
             "description":"Swipe down to search for the connection you have set in the search bar",
             "previewLength":15
-        }
+        },
         {
             "id":2,
             "title":"Settings",
