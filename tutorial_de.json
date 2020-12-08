@@ -3,49 +3,56 @@
     [
         {
             "id":0,
-            "title":"Works",
+            "title":"Hilfe",
             "videoUrl":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
-            "description":"Swipe through this to find out about all of the useful features hidden in this App",
+            "description":"Hier wird erklärt, wie man diese App bedient, und was für Möglichkeiten sie bietet.",
             "previewLength":15
         },
         {
             "id":1,
-            "title":"Favorites",
+            "title":"Suche starten",
             "videoUrl":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
-            "description":"Access your favorite connections by tapping the heart",
+            "description":"Wischen Sie im unteren Teil des Bildschirms nach unten, um ihre Suche zu starten.",
             "previewLength":15
-        },
+        }
         {
             "id":2,
-            "title":"Settings",
+            "title":"Einstellungen",
             "videoUrl":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
-            "description":"Access settings by tapping the gearwheel",
+            "description":"Stellen Sie ihre bevorzugten Suchparameter und Benachrichtigungseinstellungen ein.",
             "previewLength":15
         },
         {
             "id":3,
-            "title":"Pin a connection",
+            "title":"Favoriten",
             "videoUrl":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
-            "description":"pin a connection be swiping it left",
+            "description":"Speichern Sie Ihre Liebslingshaltestellen, indem sie auf das Herz tippen.",
             "previewLength":15
         },
         {
             "id":4,
-            "title":"Something Else",
+            "title":"Verbindung merken",
             "videoUrl":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
-            "description":"Does Something",
+            "description":"Wischen Sie eine Verbindung nach links, um sie zu speichern und Benachrichtigt zu werden, bevor sie abfährt",
+            "previewLength":15
+        },
+        {
+            "id":5,
+            "title":"meistgescuhte Verbindungen",
+            "videoUrl":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "description":"Bei der Suche mit zwei Fingern herunterzuwischen, öffnet die meistgesuchten Verbindungen",
             "previewLength":15
             
         },
         {
-            "id":5,
-            "title":"Another Feature",
+            "id":6,
+            "title":"Noch was",
             "videoUrl":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
             "description":"Does Something",
             "previewLength":15
             
         }
     ],
-    "createdDate":"2020-12-16T18:42:43Z"
+    "createdDate":"2020-12-08T14:56:10Z"
     
 }

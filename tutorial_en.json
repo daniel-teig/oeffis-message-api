@@ -3,47 +3,54 @@
     [
         {
             "id":0,
-            "title":"This",
+            "title":"Help",
             "videoUrl":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
-            "description":"Swipe through this to find out about all of the useful features hidden in this App",
+            "description":"Swipe right to find out about all of the useful features hidden in this App",
             "previewLength":15
         },
         {
             "id":1,
-            "title":"Favorites",
+            "title":"Search for a Connection",
             "videoUrl":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
-            "description":"Access your favorite connections by tapping the heart",
+            "description":"Swipe down to search for the connection you have set in the search bar",
             "previewLength":15
-        },
+        }
         {
             "id":2,
             "title":"Settings",
             "videoUrl":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
-            "description":"Access settings by tapping the gearwheel",
+            "description":"Adjust Search Paramters, Notifications and more",
             "previewLength":15
         },
         {
             "id":3,
-            "title":"Pin a connection",
+            "title":"Favorites",
             "videoUrl":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
-            "description":"pin a connection be swiping it left",
+            "description":"Save your most used Stops by tapping the heart",
             "previewLength":15
         },
         {
             "id":4,
-            "title":"Something Else",
+            "title":"Pin a trip",
             "videoUrl":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
-            "description":"Does Something",
+            "description":"Swipe a trip to the left to pin it and get notified before it starts",
+            "previewLength":15
+        },
+        {
+            "id":5,
+            "title":"Most used Connections",
+            "videoUrl":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "description":"Swipe down with two fingers to view your most used connections",
             "previewLength":15
             
         },
         {
-            "id":5,
-            "title":"Another Feature",
+            "id":6,
+            "title":"",
             "videoUrl":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
             "description":"Does Something",
             "previewLength":15
             
         }
     ],
-    "createdDate":"2020-12-16T18:42:43Z"
+    "createdDate":"2020-12-08T14:56:10Z"
