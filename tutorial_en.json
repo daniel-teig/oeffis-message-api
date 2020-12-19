@@ -1,0 +1,57 @@
+{
+    "tutorials":
+    [
+        {
+            "id":0,
+            "title":"Help",
+            "videoUrl":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "description":"Swipe right to find out about all of the useful features hidden in this App",
+            "previewLength":15
+        },
+        {
+            "id":1,
+            "title":"Search for a Connection",
+            "videoUrl":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "description":"Swipe down to search for the connection you have set in the search bar",
+            "previewLength":15
+        },
+        {
+            "id":2,
+            "title":"Settings",
+            "videoUrl":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "description":"Adjust Search Paramters, Notifications and more",
+            "previewLength":15
+        },
+        {
+            "id":3,
+            "title":"Favorites",
+            "videoUrl":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "description":"Save your most used Stops by tapping the heart",
+            "previewLength":15
+        },
+        {
+            "id":4,
+            "title":"Pin a trip",
+            "videoUrl":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "description":"Swipe a trip to the left to pin it and get notified before it starts",
+            "previewLength":15
+        },
+        {
+            "id":5,
+            "title":"Most used Connections",
+            "videoUrl":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "description":"Swipe down with two fingers to view your most used connections",
+            "previewLength":15
+            
+        },
+        {
+            "id":6,
+            "title":"hallo",
+            "videoUrl":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "description":"Does Something",
+            "previewLength":15
+            
+        }
+    ],
+    "createdDate":"2020-12-08T15:01:12Z"
+}

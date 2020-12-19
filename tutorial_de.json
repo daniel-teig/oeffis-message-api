@@ -1,0 +1,57 @@
+{
+    "tutorials":
+    [
+        {
+            "id":0,
+            "title":"Hilfe",
+            "videoUrl":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "description":"Hier wird erklärt, wie man diese App bedient, und was für Möglichkeiten sie bietet.",
+            "previewLength":15
+        },
+        {
+            "id":1,
+            "title":"Suche starten",
+            "videoUrl":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "description":"Wischen Sie im unteren Teil des Bildschirms nach unten, um ihre Suche zu starten.",
+            "previewLength":15
+        },
+        {
+            "id":2,
+            "title":"Einstellungen",
+            "videoUrl":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "description":"Stellen Sie ihre bevorzugten Suchparameter und Benachrichtigungseinstellungen ein.",
+            "previewLength":15
+        },
+        {
+            "id":3,
+            "title":"Favoriten",
+            "videoUrl":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "description":"Speichern Sie Ihre Liebslingshaltestellen, indem sie auf das Herz tippen.",
+            "previewLength":15
+        },
+        {
+            "id":4,
+            "title":"Verbindung merken",
+            "videoUrl":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "description":"Wischen Sie eine Verbindung nach links, um sie zu speichern und Benachrichtigt zu werden, bevor sie abfährt",
+            "previewLength":15
+        },
+        {
+            "id":5,
+            "title":"meistgesuchte Verbindungen",
+            "videoUrl":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "description":"Bei der Suche mit zwei Fingern herunterzuwischen, öffnet die meistgesuchten Verbindungen",
+            "previewLength":15
+            
+        },
+        {
+            "id":6,
+            "title":"Noch was",
+            "videoUrl":"https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+            "description":"Does Something",
+            "previewLength":15
+            
+        }
+    ],
+    "createdDate":"2020-12-08T15:01:12Z"
+}
